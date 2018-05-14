@@ -5,5 +5,6 @@ There are two python solutions:
 * Dynamic Programming
 
 
-Blockly Solution:
+Blockly Solution
+---------------------------------------------------------------------------------------------
 ![Blockly Solution Image](https://github.com/akulagrawal/Python-Blockly-Assignment/blob/master/Assignment_2/Blocks_Flow_Blockly.png)
