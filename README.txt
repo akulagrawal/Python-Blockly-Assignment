@@ -1,0 +1,1 @@
+These are two programming problems which have been coded in Python. The solution for assignment 2 has also been built on [Google Blockly](https://developers.google.com/blockly/).
